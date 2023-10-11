@@ -48,10 +48,19 @@ main {
     text-transform: capitalize;
 }
 
-.pokemon-type {
+.pokemon-types {
     position: absolute;
+    width: 65%;
     top: 63.5%;
     left: 13.5%;
+}
+
+.type-container {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.pokemon-type {
     color: #fff;
     background-color: #3a444d;
     padding: 2px 5px;

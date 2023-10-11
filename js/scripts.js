@@ -5,7 +5,7 @@ const pokemonImage = document.querySelector('.pokemon-image');
 
 const form = document.querySelector('.form');
 const input = document.querySelector('.input-search');
-const typeContainer = document.querySelector('.pokemon-types-form'); // Elemento para exibir os tipos no formulário
+const typeContainer = document.querySelector('.pokemon-types'); // Elemento para exibir os tipos
 const buttonPrev = document.querySelector('.btn-prev');
 const buttonNext = document.querySelector('.btn-next');
 
